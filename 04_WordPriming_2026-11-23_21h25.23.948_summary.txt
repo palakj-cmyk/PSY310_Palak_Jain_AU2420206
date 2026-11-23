@@ -1,0 +1,6 @@
+Participant: 04
+
+Primed (old) words: 14 of 15 completed correctly = 0.93
+Non-primed (new) words: 5 of 5 completed correctly = 1.00
+
+Priming score = proportion primed - proportion non-primed = -0.07

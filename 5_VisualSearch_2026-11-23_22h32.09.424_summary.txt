@@ -1,0 +1,6 @@
+Participant: 5
+
+Set size 5: mean RT (correct) = 1852.6 ms, accuracy = 98/100
+Set size 10: mean RT (correct) = 1948.6 ms, accuracy = 97/100
+
+Slope (RT x set size) = 19.2 ms per item

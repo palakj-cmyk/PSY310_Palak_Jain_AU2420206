@@ -1,0 +1,14 @@
+Participant: 4
+
+Item k      Proportion of LATER choices
+0.24675     1.00  (15 of 15)
+0.10256     0.93  (14 of 15)
+0.04056     0.67  (10 of 15)
+0.00605     0.07  (1 of 15)
+0.00252     0.07  (1 of 15)
+0.00100     0.00  (0 of 15)
+0.00016     0.00  (0 of 15)
+
+Estimated discounting value k = 0.01566
+ln(k) = -4.16
+Consistency of choices with this k = 92%
